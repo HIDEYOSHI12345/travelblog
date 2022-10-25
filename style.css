@@ -335,3 +335,9 @@ SP
   }
     
 }
+
+@media screen and (max-width: 631px) {
+    #navi li {
+        font-size: 0.775rem;
+    }
+}
